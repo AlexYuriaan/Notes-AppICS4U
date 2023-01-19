@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reminder App</string>
+
+    <string name="Input1">1</string>
+    <string name="Input2">2</string>
+    <string name="Input3">3</string>
+    <string name="Input4">4</string>
+    <string name="Input5">5</string>
+
+</resources>
